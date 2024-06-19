@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.logo{
+    display: flex;
+    justify-content: space-between;
+}
+
+div{
+    background-color: blueviolet;
+    padding: 16px;
+}
+
+nav{
+    background-color: orange;
+    align-self: flex-end;
+}
